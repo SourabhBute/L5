@@ -15,7 +15,7 @@ class Kernel extends ConsoleKernel
     protected $commands = [
         \App\Console\Commands\Inspire::class,
          \App\Console\Commands\EveryMinute::class,
-          \App\Console\Commands\SiteDown::class,
+         // \App\Console\Commands\SiteDown::class,
 
     ];
 
